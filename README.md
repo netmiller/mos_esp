@@ -13,9 +13,11 @@ Asennettu __MongooseOS kehitysympäristö__ koneelle (ESP8266 ja ESP32 kehitykse
 
 Testattu tämmöisellä laitteella 
 
+* ESP8266 NodeMcu
+* hinta __EUR 2.86__  (eBay:ssä)
+
 ![kuva5](esp8266.jpg)
 
-(ESP8266 NodeMcu, hinta __EUR 2.86__  eBay:ssä)
 
 ----
 
