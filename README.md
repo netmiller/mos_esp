@@ -93,7 +93,7 @@ Kokeiltu vielä tehdä joku __testi-flash__ että nähdään toimiiko lainkaan :
 * valittu Platform:ksi __esp8266 (1M flash)__
 * tämä ihan kokeiluna kun ei tietoa mikä on oikea flash-määrä tällä laitteella
 * luultavasti tässä on kuitenkin __4M flash__ !
-* testataan __demo-js__ applikaatiolla (luultavasti vilkuttelee lediä??)
+* testataan __demo-js__ applikaatiolla ( vilkuttelee lediä yms ?? )
 
 ![kuva7](screenshot-7.png)
 
