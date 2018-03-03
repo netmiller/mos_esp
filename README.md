@@ -5,7 +5,7 @@ Mongoose OS asennus iMac
 * 2018-03-03 esa.laitila@netmiller.fi
 * MacOS Sierra (v.10.12.6)
 
-Asennettu __Mongoose OS__ koneelle.  ESP8266 ja ESP32 kehitykseen.
+Asennettu __MongooseOS kehitysympäristö__ koneelle (ESP8266 ja ESP32 kehitykseen).
 
 <https://mongoose-os.com>
 
