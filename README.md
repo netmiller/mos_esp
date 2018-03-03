@@ -90,8 +90,9 @@ Nyt ainakin saa yhteyden laitteeseen, mutta perus-flash-toimet vielä puuttuu :
 
 Kokeiltu vielä tehdä joku __testi-flash__ että nähdään toimiiko lainkaan :
 
-* valittu Platform:ksi __esp8266 (1M flash)
+* valittu Platform:ksi __esp8266 (1M flash)__
 * tämä ihan kokeiluna kun ei tietoa mikä on oikea flash-määrä tällä laitteella
+* luulatavasti tässä on kuitenkin 4M flash !
 * testataan __demo-js__ applikaatiolla (luultavasti vilkuttelee lediä??)
 
 ![kuva7](screenshot-7.png)
