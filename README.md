@@ -11,6 +11,12 @@ Asennettu __Mongoose OS__ koneelle.  ESP8266 ja ESP32 kehitykseen.
 
 ----
 
+Testattu tämmöisellä laitteella (ESP8266 NodeMcu)
+
+![kuva5](esp8266.jpg)
+
+----
+
 __Asennus :__
 
 ````
@@ -531,10 +537,9 @@ eli se on löytänyt itselleen IP-osoitteen __192.168.0.156__
 
 ____
 
-Ja vastaa myös selaimen kutsuun :
+Ja vastaa myös selaimelle (ainakin __index__ näkymä tulee oletuksena)
 
 ![kuva9](screenshot-9.png)
-
 
 ----
 
