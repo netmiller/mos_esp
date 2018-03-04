@@ -483,3 +483,10 @@ Myös __ESP32__ laite on tilattu joten sillä voidaan myös testata.
 
 ----
 
+__2018-03-04__ testattu jotain pientä:
+
+* sekä __javascript__ että __c-kielinen demo__ kääntyvät ja toimivat ok
+* platform __esp8266 4M flash__ toimii ok
+* sensijaan __WebSocket__ pohjaista porttia ei löydy ?? 
+* esim: `mos console --port ws://192.168.0.156/rpc`
+
