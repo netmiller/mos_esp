@@ -5,7 +5,7 @@ Mongoose OS asennus iMac
 * 2018-03-03 esa.laitila@netmiller.fi
 * MacOS Sierra (v.10.12.6)
 
-Asennettu __MongooseOS kehitysympäristö__ koneelle (ESP8266 ja ESP32 kehitykseen).
+Asennettu __MongooseOS kehitysympäristö__  (ESP8266 ja ESP32 kehitykseen).
 
 <https://mongoose-os.com>
 
@@ -35,8 +35,6 @@ SUCCESS: /Users/esa/.mos/bin/mos is installed.
 Run '/Users/esa/.mos/bin/mos --help' to see all available commands.
 Run '/Users/esa/.mos/bin/mos' without arguments to start a simplified Web UI installer.
 
-► iMac@~$
-
 ````
 
 Ohjelma toimii ja UI käynnistyy komennolla :
@@ -64,7 +62,6 @@ Archive:  Desktop/Mac_OSX_VCP_Driver.zip
   Length      Date    Time    Name
 ---------  ---------- -----   ----
    283245  01-23-2018 11:40   SiLabsUSBDriverDisk.dmg
----------                     -------
    283245                     1 file
 
 ````
